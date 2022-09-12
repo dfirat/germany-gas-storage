@@ -12,4 +12,4 @@ I used Tableau to visualize the results, which can be viewed [here](https://publ
 # Results
 Although gas supplies from Russia to Germany have declined significantly, gas storage facilities are currently filling up noticeably. Currently, they are being filled even faster than the 2013-2021 average.
 
-![Dashboard](Dashboard.png)
+[![Dashboard](Dashboard.png)](https://public.tableau.com/app/profile/dfirat/viz/LevelofGermangasstoragefacilities/Dashboard1)
