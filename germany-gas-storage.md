@@ -20,7 +20,7 @@ library("jsonlite")
 de <- fromJSON("StorageData_GIE_2012-09-10_2022-09-10.json", flatten = TRUE)
 ```
 
-### Add new year column
+### Add new year and month column
 
 ``` r
 de$year <- format(as.Date(de$gasDayStart), "%Y")
